@@ -1,5 +1,5 @@
 # Project Production Link
-Click in following link to open Production app. [Link](https://spacexdashboard16.herokuapp.com/).
+.
 
 # Getting Started with Create React App
 
