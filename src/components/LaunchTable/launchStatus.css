@@ -1,0 +1,20 @@
+.failedColor {
+    background-color: #FDE2E1;
+}
+
+.successColor {
+    background-color: #DEF7EC;
+}
+
+.upcomingColor {
+    background-color: #FEF3C7;
+}
+
+.launchCode {
+    font-weight: bolder;
+    font-size: 12px;
+    border-radius: 25px;
+    padding: 4px;
+    width: 85%;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+
+
+body {
+  margin: 0;
+}
+
+#launchTable .MuiTableCell-root {
+  border-bottom: none !important;
+}

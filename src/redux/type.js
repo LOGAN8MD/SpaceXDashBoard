@@ -1,0 +1,9 @@
+const ADD_DATE_RANGE = 'ADD_DATE_RANGE';
+const ADD_LAUNCH_STATUS = 'ADD_LAUNCH_STATUS';
+
+const TYPES = {
+    ADD_DATE_RANGE,
+    ADD_LAUNCH_STATUS
+}
+
+export default TYPES;

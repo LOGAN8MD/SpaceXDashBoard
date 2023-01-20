@@ -1,0 +1,32 @@
+.dataRange {
+    display: flex;
+}
+
+.icon {
+    font-size: 28px;
+}
+
+.filerIcon {
+    font-size: 24px;
+}
+
+.calendarInput {
+    margin-left: 10px;
+}
+
+.filterContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.filterIconContainer {
+    display: flex;
+}
+
+.selectedOptions {
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
